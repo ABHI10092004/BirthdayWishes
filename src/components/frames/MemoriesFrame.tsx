@@ -138,7 +138,7 @@ const MemoriesFrame = ({ creatorName }: MemoriesFrameProps) => {
             <p className="font-poppins text-muted-foreground text-sm md:text-base">
               Made with 💖 by{" "}
               <span className="font-cursive text-pink-deep text-lg">
-                {creatorName}
+                {"Your Best Friend"}
               </span>
             </p>
           </div>
